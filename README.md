@@ -1,4 +1,4 @@
-# wechatlocation
+# 微信朋友圈改定位设置
 微信朋友圈改定位设置
 点开设置-通用-关于本机-查看ios版本
 <img width="1280" height="2781" alt="c545e81f50f9c60b3cb9f5359d0dd7d2" src="https://github.com/user-attachments/assets/7350e4cc-56a5-495e-8c31-8f4bea2a6611" />
